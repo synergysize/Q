@@ -1,0 +1,35 @@
+{
+  "name": "Q Anon",
+  "symbol": "Q",
+  "description": "WWG1WGA",
+  "image": "https://i.ibb.co/4w9y48T8/Leonardo-Phoenix-10-In-the-midst-of-an-intense-thunderstorm-a-0-1.jpg",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "MEME Token"
+    },
+    {
+      "trait_type": "Transfer Fee",
+      "value": "5%"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "1,000,000,000"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.ibb.co/4w9y48T8/Leonardo-Phoenix-10-In-the-midst-of-an-intense-thunderstorm-a-0-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "7uCwXex9V91d8Dn7J241vfjKds5DL9mVCp8dXTseAMWJ",
+        "share": 100
+      }
+    ]
+  }
+}
